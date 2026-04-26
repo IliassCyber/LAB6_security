@@ -27,6 +27,8 @@ En remplacement, l'analyse statique de l'APK a été effectuée via la plateform
 | **Min SDK** | 24 (Android 7.0) |
 | **Outil utilisé** | MobSF v4.5.0 via mobsf.live (instance publique) |
 | **Score de sécurité** | **41/100 — Risque MOYEN (Grade B)** |
+| **Rapport brut MobSF** | [Rapport_MobSF.pdf](https://github.com/user-attachments/files/27102676/Rapport_MobSF.pdf)
+ |
 
 ---
 
